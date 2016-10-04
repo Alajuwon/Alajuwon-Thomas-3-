@@ -1,9 +1,107 @@
 *{
-	-webkit-box-sizing:border-box;
-	-moz-box-sizing:border-box;
 	box-sizing: border-box;
 }
 
-img.style {
-	position:center;
+.image-banner{
+//height:50px;
+  width:1000px;
+}
+
+img{
+	height:230px;
+	width:1080px;
+	
+}
+
+body{
+	width:1000px;
+	height:1000px;
+}
+
+.huge-box{
+	display:inline-block;
+	vertical-align:top;
+	margin-left:20px;
+	}	
+
+.family-box{
+	width:240px;
+	height:150px;
+	border-style:solid;
+	bottom-border:solid black;
+}	
+#green{
+	background:green;
+	border:green;
+}
+#blue{
+	background:blue;
+	border:blue;
+}
+#black{
+	background:black;
+}
+li{
+	border:1px solid lightgray;
+	list-style:none;
+	padding:10px;
+}
+ul{
+	margin:0px;
+	padding:0px;
+}
+
+.choose{
+	text-align:center;
+}
+
+
+.outlinebox{
+	width:200px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:70px;
+}
+
+	
+}
+.outline2{
+	width:300px;
+	margin:0px;
+	float: right;
+
+}
+
+.parabox2{
+	margin-left:130px;
+	width:270px;
+	margin-top:40px;
+}
+
+.parabox1{
+	margin-left:130px;
+	width:270px;
+}
+
+
+.parabox3{
+	width:270px;
+}
+
+.parabox4{
+	width:270px;
+}
+
+.unibox2{
+	float:right;
+	margin-top:0px;
+}
+
+.bighugebox{
+	margin-left:170px;
+
+}
+
+.per{
+	
 }
